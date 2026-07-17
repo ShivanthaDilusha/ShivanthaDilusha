@@ -32,16 +32,14 @@
         <b>Ethical Hacker</b>
       </td>
       
-      <!-- Badge 2: මෙතන ඔයාගේ දෙවෙනි badge එක දාන්න -->
       <td align="center">
         <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
-          <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" height="110" alt="දCyber Threat Management" />
+          <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" height="110" alt="Cyber Threat Management" />
         </a>
         <br />
         <b>Cyber Threat Management</b>
       </td>
 
-      <!-- Badge 3: මෙතන ඔයාගේ තුන්වෙනි badge එක දාන්න -->
       <td align="center">
         <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
           <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/image.png" width="110" height="110" alt="Introduction to Cybersecurity" />
@@ -50,13 +48,12 @@
         <b>Introduction to Cybersecurity</b>
       </td>
 
-      <!-- Badge 4: මෙතන ඔයාගේ හතරවෙනි badge එක දාන්න -->
       <td align="center">
         <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
-          <img src="https://images.credly.com/images/ඔයාගේ_4වෙනි_ID_එක_මෙතනට_දාන්න/image.png" width="110" height="110" alt="හතරවෙනි_Badge_එකේ_නම" />
+          <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/image.png" width="110" height="110" alt="Introduction to Cybersecurity" />
         </a>
         <br />
-        <b>හතරවෙනි Badge එකේ නම</b>
+        <b>Introduction to Cybersecurity</b>
       </td>
     </tr>
   </table>
