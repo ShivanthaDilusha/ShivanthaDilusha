@@ -21,30 +21,30 @@
 ## 🛡️ Professional Certifications
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-    <td align="center">
+    <td align="center width="25%"">
         <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
           <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="110" height="110" alt="Ethical Hacker" />
         </a>
         <br />
         <b>Ethical Hacker</b>
       </td>
-      <td align="center">
+      <td align="center width="25%"">
         <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
           <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" height="110" alt="Cyber Threat Management" />
         </a>
         <br />
         <b>Cyber Threat Management</b>
       </td>
-      <td align="center">
+      <td align="center width="25%"">
         <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
           <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" height="110" alt="Introduction to Cybersecurity" />
         </a>
         <br />
         <b>Introduction to Cybersecurity</b>
       </td>
-     <!-- <td align="center">
+     <!-- <td align="center width="25%"">
         <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
           <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" height="110" alt="Introduction to Cybersecurity" />
         </a>
