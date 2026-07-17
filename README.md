@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
-    <img src="https://images.credly.com/images/baa9848a-91b3-4399-b30d-f87d020d16fb/image.png" width="110" height="110" alt="CompTIA Security+" />
+    <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" height="110" alt="Ethical Hacker" />
   </a>
 </div>
 
