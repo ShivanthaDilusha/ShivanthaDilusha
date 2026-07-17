@@ -48,13 +48,11 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ShivanthaDilusha">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShivanthaDilusha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/ShivanthaDilusha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-      username=ShivanthaDilusha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivanthaDilusha&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ShivanthaDilusha)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanthaDilusha&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ShivanthaDilusha)
+
 </div>
 
 ---
