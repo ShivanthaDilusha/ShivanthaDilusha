@@ -17,13 +17,16 @@
 - ⚡ Fun fact: **I spend more time reading logs than reading books!**
 
 ---
+
 ## 🛡️ Professional Certifications
 
 <div align="center">
   <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
-    <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" height="110" alt="Ethical Hacker" />
+    <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" height="110" alt="Cyber Threat Management" />
   </a>
 </div>
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
