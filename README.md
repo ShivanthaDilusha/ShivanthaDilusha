@@ -17,6 +17,9 @@
 - ⚡ Fun fact: **I spend more time reading logs than reading books!**
 
 ---
+<a href="https://www.credly.com/users/shivantha-dilusha">
+  <img src="https://images.credly.com/images/YOUR_CERTIFICATE_IMAGE_ID/image.png" width="90" height="90" alt="Security+" />
+</a>
 
 ## 🛠️ Tech Stack & Tools
 
