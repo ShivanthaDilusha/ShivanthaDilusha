@@ -17,9 +17,13 @@
 - ⚡ Fun fact: **I spend more time reading logs than reading books!**
 
 ---
-<a href="https://www.credly.com/users/shivantha-dilusha">
-  <img src="https://images.credly.com/images/YOUR_CERTIFICATE_IMAGE_ID/image.png" width="90" height="90" alt="Security+" />
-</a>
+## 🛡️ Professional Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/users/shivantha-dilusha" target="_blank">
+    <img src="https://images.credly.com/images/baa9848a-91b3-4399-b30d-f87d020d16fb/image.png" width="110" height="110" alt="CompTIA Security+" />
+  </a>
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
