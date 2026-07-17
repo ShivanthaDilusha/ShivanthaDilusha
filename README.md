@@ -67,9 +67,6 @@
   <a href="https://twitter.com/shivantha143?t=aI--BWshUn6DoLX2dQaI3w&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="[Your Blog/Portfolio URL - optional]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 <!--
